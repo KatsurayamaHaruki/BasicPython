@@ -3,3 +3,4 @@ from math import sin
 # print(sin(0))
 # >>> 0
 # -----------
+# 解答
